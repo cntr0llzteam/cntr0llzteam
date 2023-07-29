@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3041a1f.css",
-    "main.js": "/static/js/main.b12cf943.js",
+    "main.css": "/static/css/main.8b9d9381.css",
+    "main.js": "/static/js/main.af7b5682.js",
     "static/js/787.85fd10e5.chunk.js": "/static/js/787.85fd10e5.chunk.js",
-    "static/media/cntr0llz-logo.png": "/static/media/cntr0llz-logo.b2ecae9ff55dbedaf287.png",
+    "static/media/Cy_Waifu_Cntr0llz.png": "/static/media/Cy_Waifu_Cntr0llz.8a51fa79089bf1f72b0e.png",
+    "static/media/laser2.gif": "/static/media/laser2.66a8f548815a9328b644.gif",
     "index.html": "/index.html",
-    "main.a3041a1f.css.map": "/static/css/main.a3041a1f.css.map",
-    "main.b12cf943.js.map": "/static/js/main.b12cf943.js.map",
+    "main.8b9d9381.css.map": "/static/css/main.8b9d9381.css.map",
+    "main.af7b5682.js.map": "/static/js/main.af7b5682.js.map",
     "787.85fd10e5.chunk.js.map": "/static/js/787.85fd10e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3041a1f.css",
-    "static/js/main.b12cf943.js"
+    "static/css/main.8b9d9381.css",
+    "static/js/main.af7b5682.js"
   ]
 }

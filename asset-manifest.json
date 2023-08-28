@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e2ebf50.css",
-    "main.js": "/static/js/main.226a2a3b.js",
+    "main.js": "/static/js/main.85598b7f.js",
     "static/js/787.85fd10e5.chunk.js": "/static/js/787.85fd10e5.chunk.js",
     "static/media/equipo3.jpg": "/static/media/equipo3.c76cdf65480bbf2ad4bd.jpg",
     "static/media/Cy_Waifu_Cntr0llz.png": "/static/media/Cy_Waifu_Cntr0llz.8a51fa79089bf1f72b0e.png",
@@ -17,13 +17,14 @@
     "static/media/xpl0ited1.jpg": "/static/media/xpl0ited1.3b47ef4485c3e2587864.jpg",
     "static/media/silver.jpg": "/static/media/silver.3b58563337ed05a9cef7.jpg",
     "static/media/samnez.jpg": "/static/media/samnez.e0178881d83667f0bc4b.jpg",
+    "static/media/cesarsilence.jpg": "/static/media/cesarsilence.3eecf57838a1e2804f8e.jpg",
     "index.html": "/index.html",
     "main.4e2ebf50.css.map": "/static/css/main.4e2ebf50.css.map",
-    "main.226a2a3b.js.map": "/static/js/main.226a2a3b.js.map",
+    "main.85598b7f.js.map": "/static/js/main.85598b7f.js.map",
     "787.85fd10e5.chunk.js.map": "/static/js/787.85fd10e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e2ebf50.css",
-    "static/js/main.226a2a3b.js"
+    "static/js/main.85598b7f.js"
   ]
 }
